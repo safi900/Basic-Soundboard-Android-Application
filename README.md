@@ -1,8 +1,3 @@
-# Basic-Soundboard-Android-Application
-Basic template for soundboard apps for Android
-
-Use this template to create your soundboard apps for Android!
-
-Actual app can be found here: https://play.google.com/store/apps/details?id=com.wordpress.httpsredefiningproductions.ohyeah
-
-Any questions? Email me at redefiningproductions@gmail.com
+# TikTok-Soundboard-Android-Application
+Forked from Mike2151's Basic template for soundboard apps for Android
+TikTok Soundboard is an app developed as a gift for a closed audience 
